@@ -78,5 +78,8 @@
 
 <br />
 
+## Spotify Track currently listening.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kairavk&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
