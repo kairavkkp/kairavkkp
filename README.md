@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kairav, a Machine Learning Developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning NodeJS and ReactJS  
+- 🌱 I’m currently learning NodeJS and ReactJS alongwith Spark Architechture for Big Data Analytics. 
   
 
 - ❓ Ask me about anything related to Deep Learning Tensorflow Development.  
