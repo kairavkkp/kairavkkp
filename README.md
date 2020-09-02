@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kairav, a Machine Learning Developer 👨‍💻 </div>  
+### <div align="center">I'm Kairav, a Machine Learning Developer and Data Science Enthusiast 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning NodeJS and ReactJS alongwith Spark Architechture for Big Data Analytics. 
