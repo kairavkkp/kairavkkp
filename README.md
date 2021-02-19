@@ -1,20 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kairav, a Machine Learning Developer and Data Science Engineer👨‍💻</div>  
   
 
-- 🌱 I’m currently learning NodeJS and ReactJS.  
+- 🌱 I’m currently learning NodeJS and ReactJS Development and Deployment.  
+- ❓ Ask me about anything related to Deep Learning Tensorflow Development.
+- 🔭  Certified Google Tensorflow Developer. Find my credentials [here](https://www.credential.net/b2e41be9-a53f-4f57-a541-fc7a3da0c85b#gs.ty4mic).
+- ⚡ Fun Fact : Prefer Linux over MacOS. FPS Gamer :keyboard: :computer_mouse:
+- :mag: Find me : [kairavkkp.github.io](https://kairavkkp.github.io)
   
-
-- ❓ Ask me about anything related to Deep Learning Tensorflow Development.  
-  
-
-- ⚡Fun Fact : Just completed Google Tensorflow Certification.  
-  
-
 <br/>  
 
 
