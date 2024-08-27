@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning ReactJS/NextJS Development and Deployment.  
 - ❓ Ask me about anything related to Backend and DevOps Technologies.
+- 🔭  Certified AWS Solutions Architect Associate. Find my credentials [here](https://kairav-personal-hosting.s3.ap-south-1.amazonaws.com/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf).
 - 🔭  Certified Google Tensorflow Developer. Find my credentials [here](https://www.credential.net/b2e41be9-a53f-4f57-a541-fc7a3da0c85b#gs.ty4mic).
 - :mag: Find me : [kairavkkp.github.io](https://kairavkkp.github.io) [Little bit outdated, will update soon.]
   
@@ -90,23 +91,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kairavkkp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Spotify Track currently listening.
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kairavk&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kairavkkp&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
