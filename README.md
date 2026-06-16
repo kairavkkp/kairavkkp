@@ -4,12 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=2B50EC&center=true&vCenter=true&width=520&lines=Backend+%26+DevOps+Engineer;6%2B+years+building+async+systems+on+AWS;Document+pipelines+%7C+Event-driven+arch+%7C+AI+automation" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 ![Available](https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Work-1FB873?style=flat-square)
 ![Location](https://img.shields.io/badge/Ahmedabad%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white)
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2B50EC?style=flat-square&logo=googlechrome&logoColor=white)](https://kairavkkp.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kairav-pithadia)
